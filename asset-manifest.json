@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/sabeer-ali/diagnal-test-task/static/css/main.2f656b6b.css",
-    "main.js": "/sabeer-ali/diagnal-test-task/static/js/main.2a2faa12.js",
+    "main.js": "/sabeer-ali/diagnal-test-task/static/js/main.c21f07bf.js",
+    "static/js/694.d5782879.chunk.js": "/sabeer-ali/diagnal-test-task/static/js/694.d5782879.chunk.js",
+    "static/js/631.f3890b3b.chunk.js": "/sabeer-ali/diagnal-test-task/static/js/631.f3890b3b.chunk.js",
     "static/media/poster2.jpg": "/sabeer-ali/diagnal-test-task/static/media/poster2.bf23bfae49d854fec0f2.jpg",
     "static/media/poster1.jpg": "/sabeer-ali/diagnal-test-task/static/media/poster1.d966e333249e4f74e821.jpg",
     "static/media/poster3.jpg": "/sabeer-ali/diagnal-test-task/static/media/poster3.7ee7b802517e3b685aaf.jpg",
@@ -13,10 +15,12 @@
     "static/media/poster7.jpg": "/sabeer-ali/diagnal-test-task/static/media/poster7.8f23c2d5749c68467aaf.jpg",
     "index.html": "/sabeer-ali/diagnal-test-task/index.html",
     "main.2f656b6b.css.map": "/sabeer-ali/diagnal-test-task/static/css/main.2f656b6b.css.map",
-    "main.2a2faa12.js.map": "/sabeer-ali/diagnal-test-task/static/js/main.2a2faa12.js.map"
+    "main.c21f07bf.js.map": "/sabeer-ali/diagnal-test-task/static/js/main.c21f07bf.js.map",
+    "694.d5782879.chunk.js.map": "/sabeer-ali/diagnal-test-task/static/js/694.d5782879.chunk.js.map",
+    "631.f3890b3b.chunk.js.map": "/sabeer-ali/diagnal-test-task/static/js/631.f3890b3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f656b6b.css",
-    "static/js/main.2a2faa12.js"
+    "static/js/main.c21f07bf.js"
   ]
 }
